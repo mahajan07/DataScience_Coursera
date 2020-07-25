@@ -1,6 +1,4 @@
 # The Data Scientist's Toolbox Project (JHU) Coursera
-A image video link walkthrough of the project + answers is available at the end of this quiz. 
-
 Part 1 
 ----------
 The Course Project for this course is pretty straightforward. Now that you’ve learned about the basic tools found in the data scientist’s toolbox, we want to make sure that you’ve assembled those tools and are ready to begin using them. This easy project is your chance to demonstrate that you’ve done the basic software setup (R, RStudio, and Github) that will get you through the rest of the Data Science Specialization.
