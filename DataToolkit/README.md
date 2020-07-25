@@ -1,7 +1,5 @@
 # Data Science Specialization | John Hopkins Coursera
-Author: Michael Galarnyk <br />
-
-Just started on Course 5 "Reproducible_Research" (as of 2/19/2017). All the coursework is aggregated into one repo.
+Author: Dewank Mahajan <br />
 
 ## Course 
 Course Number | Course | Link to Repo | Blog
@@ -14,7 +12,7 @@ Course Number | Course | Link to Repo | Blog
 ## Contributors
 FirstName | LastName | Email
 --- | --- | ---
-Michael |  Galarnyk |  <mgalarny@gmail.com>
+Dewank |  Mahajan |  <dewank011@gmail.com>
 Submit |  Pull Request | <youremailhere@gmail.com>
 
 ## License
